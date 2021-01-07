@@ -86,7 +86,7 @@
     </section>
       <section class="container">
         <div class="gallery">
-            <a href="image/Dhaka/AhsanManzil/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-1.jpg"></a>
+            <a href="image/Dhaka/BBMMuseum/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/BBMMuseum/pic-1.jpg"></a>
             <a href="image/Dhaka/AhsanManzil/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-2.jpg"></a>
             <a href="image/Dhaka/AhsanManzil/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-3.jpg"></a>
             <a href="image/Dhaka/AhsanManzil/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-4.jpg"></a> 
