@@ -1,0 +1,32 @@
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #311b92;
+    padding: 50px;
+}
+
+.reg_name {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+    text-decoration: underline;
+}
+
+.tab {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid black;
+}
+
+.tab_att {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 22px;
+    font-weight: bolder;
+}
