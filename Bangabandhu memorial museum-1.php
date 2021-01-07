@@ -99,7 +99,7 @@
       </section>
     <section class="container title">
         <div class="tt">
-            <h3>Location & Map</h3
+            <h3>Location & Map</h3>
         </div>
     </section>
     <section class="container map"> <iframe
