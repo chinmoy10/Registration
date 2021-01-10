@@ -24,10 +24,10 @@
   </div>
 
   	<div class="input-group">
-  		<input type="text" name="username" placeholder="Name" >
+  		<input type="text" name="username" placeholder="Name" required>
   	</div>
   	<div class="input-group">
-  		<input type="password" name="password" placeholder="Password">
+  		<input type="password" name="password" placeholder="Password" required>
   	</div>
   	<div class="input-group">
   		<button type="submit" class="btn" name="login_user">Login</button>

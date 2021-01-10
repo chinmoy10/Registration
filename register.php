@@ -24,16 +24,16 @@
   </div>
 
   	<div class="input-group">
-  	  <input type="text" placeholder="Name" name="username"  value="<?php echo $username; ?>">
+  	  <input type="text" placeholder="Name" name="username"  value="<?php echo $username; ?>" required>
   	</div>
   	<div class="input-group">
-  	  <input type="email" placeholder="Email" name="email" value="<?php echo $email; ?>">
+  	  <input type="email" placeholder="Email" name="email" value="<?php echo $email; ?>" required>
   	</div>
   	<div class="input-group">
-  	  <input type="password" placeholder="Password" name="password_1">
+  	  <input type="password" placeholder="Password" name="password_1" required>
   	</div>
   	<div class="input-group">
-  	  <input type="password" placeholder="Confirm Password" name="password_2">
+  	  <input type="password" placeholder="Confirm Password" name="password_2" required>
   	</div>
   	<div class="input-group">
   	  <button type="submit" class="btn" name="reg_user">Register</button>
