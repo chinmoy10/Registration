@@ -7,6 +7,258 @@
     <link rel="stylesheet" href="CSS/dhk_style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
+
+.navbar {
+    background-color: #311b92;
+    position: fixed;
+} 
+
+
+.navbar-brand {
+    font-size: 30px !important;
+    font-family: fantasy !important;
+    color: #ffffff;
+}
+
+.nav-item{
+    margin-left: 20px;
+}
+
+.nav-link{
+    color: #ffffff !important;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 100%;
+}
+
+
+.container.info {
+    position: relative;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-top: 80px;
+
+}
+
+.container.info .txt {
+
+    color: gray;
+
+}
+
+.info-content {
+    color: rgb(8, 8, 8);
+    width: 100%;
+    padding-top: 10px;
+}
+
+
+.info-content p {
+    margin-bottom: 30px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: gray;
+    font-weight: 500;
+
+}
+
+/*End Banner*/
+
+/*District*/
+
+.dropdown-divider {
+    margin: 60px;
+    padding: .3px;
+    width: 100%;
+    background-color: gray;
+}
+
+.container.title {
+    position: relative;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-top: 40px;
+
+}
+
+.container.title .tt {
+
+    color: gray;
+
+}
+.container.title .tt a h4{
+    color: gray;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+
+.district {
+    width: 90%;
+    height: 100%;
+    margin: 5px auto 0;
+    display: table;
+    box-sizing: border-box;
+    padding-bottom: 50px;
+    padding-left: 140px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.row {
+    margin: 20px 0px;
+}
+
+.column {
+    display: table-cell;
+    margin: 5px;
+    border-right: 20px solid white;
+    border-radius: 50px;
+}
+
+.card {
+    width: 250px;
+    height: 200px;
+    padding: 2rem 1rem;
+    background: #fff;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    box-shadow: 5px 2px 10px 2px rgba(0, 0, 0, 0.5);
+    transition: 0.8s ease-in-out;
+
+}
+
+.card:hover {
+    transform: none;
+}
+
+.card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transition: 0.8s all;
+    opacity: 0;
+}
+
+.card:hover ::before {
+    opacity: 1;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 2px;
+    transform: scale(1);
+    transition: 0.3s ease-in-out;
+}
+
+.card img:hover {
+    transform: scale(1.07);
+}
+
+.card .info {
+    position: relative;
+    z-index: 4;
+    color: #fff;
+    opacity: 0;
+    transform: scale(1);
+    transition: 0.5s all;
+    margin: 100px 0px 100px 0px;
+}
+
+.card:hover .info {
+    opacity: 1;
+    transform: scale(1.2);
+}
+
+.card .info h4 {
+    margin: 10px 0px;
+    color: rgba(255, 255, 255, 0.918);
+    font-weight: bold;
+
+}
+
+#more {
+    display: none;
+}
+
+
+#readMore {
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    color: rgb(73, 68, 68);
+    background-color: rgb(187, 255, 0);
+}
+
+/*End District*/
+/*Footer*/
+.footer {
+    width: 100%;
+    background: #311b92;
+    display: block;
+    padding-top: 5px;
+
+}
+
+.inner-footer {
+    width: 100%;
+    margin: auto;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.footer-items {
+    width: 25%;
+    box-sizing: border-box;
+    color: white;
+    font-size: 25px;
+    text-align: center !important;
+    line-height: 20px;
+}
+
+h2 {
+    padding: 0 30px;
+    margin: 10px 30px;
+    color: white;
+    font-size: 18px !important;
+}
+
+.footer-bottom {
+    padding: 0 10px;
+    color: white !important;
+    font-size: 18px !important;
+    text-align: center;
+}
+    </style>
+
 </head>
 <body>
      <?php include 'navbar.php' ?>
