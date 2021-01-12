@@ -83,6 +83,10 @@
                       <span style="color: red; font-size: 17px;"><a href="https://sajekvalley.business.site/?utm_source=gmb&utm_medium=referral" target="blank">www.sajek valley.com</a></span> </br>  
                      </p>
 
+                     <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/eFZgdiPeqpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
+
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>
@@ -105,14 +109,14 @@
     </section>
     <section class="container">
         <div class="gallery">
-            <a href="image/Dhaka/AhsanManzil/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-1.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-2.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-3.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-4.jpg"></a> 
-            <a href="image/Dhaka/AhsanManzil/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-5.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-6.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-7.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-8.jpg"></a>
+            <a href="image/Dhaka/Sajek/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-1.jpg"></a>
+            <a href="image/Dhaka/Sajek/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-2.jpg"></a>
+            <a href="image/Dhaka/Sajek/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-3.jpg"></a>
+            <a href="image/Dhaka/Sajek/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-4.jpg"></a> 
+            <a href="image/Dhaka/Sajek/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-5.jpg"></a>
+            <a href="image/Dhaka/Sajek/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-6.jpg"></a>
+            <a href="image/Dhaka/Sajek/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-7.jpg"></a>
+            <a href="image/Dhaka/Sajek/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Sajek/pic-8.jpg"></a>
             
         </div>
     </section>

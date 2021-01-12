@@ -72,6 +72,20 @@
                      <span style="color: black; font-size: 17px;">Sher-e-Bangla Nagar Police Station: +88-02-9124154, +8801199867888</span> </br> 
                     <span style="color: black; font-size: 17px;">Tejgaon Police Station: +88-02-9119444, 9119467</span> 
                     </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/Bangabandhu-Sheikh-Mujibur-Rahman-Novotheatre-475755102788978" target="_blank">www.facebook.com/Bangabandhu Sheikh Mujibur Rahman Novo Theatre</a></span> </br>  
+                    </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Website Link:
+                     <span style="color: blue; font-size: 17px;"><a href="http://www.novotheatre.gov.bd/" target="_blank">www.bangabandhu sheikh mujibur rahman novo theatre.com</a></span> </br>  
+                    </p>
+
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/hvHgXyn9DdQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p> 
+
+
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>
@@ -107,7 +121,7 @@
             <h3>Location & Map</h3>
         </div>
     </section>
-    <section class="container map"> <iframe
+    <section class="container map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.5409721202273!2d90.38516351471968!3d23.763743084582856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7589621bd5f%3A0x5d122b7f16fa725f!2sBangabandhu%20Sheikh%20Mujibur%20Rahman%20Novo%20Theatre!5e0!3m2!1sen!2sbd!4v1605151628973!5m2!1sen!2sbd" width="1000" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
     </section>
 

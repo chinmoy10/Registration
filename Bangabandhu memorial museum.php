@@ -66,6 +66,18 @@
                      <span style="color: black; font-size: 17px;">Dhanmondi Police Station: +88-02-8631941, +8801199883622</span> </br> 
                     <span style="color: black; font-size: 17px;">Tejgaon Police Station: +88-02-9119444, 9119467</span> 
                     </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/bangabandhumemorialmuseum" target="_blank">www.facebook.com/banga bandhu memorial museum</a></span> </br>  
+                    </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Website Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://bangabandhumuseum.org.bd/" target="_blank">www.banga bandhu memorial museum.com</a></span> </br>  
+                    </p>
+
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/vD38kljI91I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
                     
                     </span>
                     <div class="READMORE">
@@ -102,7 +114,7 @@
             <h3>Location & Map</h3>
         </div>
     </section>
-    <section class="container map"> <iframe
+    <section class="container map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.879760936167!2d90.37423621471945!3d23.751666784588625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8ad7a8be543%3A0xba474ab92e9c23bc!2sFather%20of%20The%20Nation%20Bangabandhu%20Sheikh%20Mujibur%20Rahman%20Memorial%20Museum!5e0!3m2!1sen!2sbd!4v1605166679733!5m2!1sen!2sbd" width="1000" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
     </section>
 

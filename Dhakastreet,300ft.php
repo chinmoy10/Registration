@@ -61,14 +61,25 @@
                   </p>
                     
 
-                  <p style="color: Orange; font-size: 20px;">Thana: </br>
+                  
+
+                  <span id="dots"></span>
+                    <span id="more">
+                    <p style="color: Orange; font-size: 20px;">Thana: </br>
                      <span style="color: black; font-size: 17px;">Shyampur Police Station: +88-02-7440691, +8801199883730</span> </br>
                      <span style="color: black; font-size: 17px;">Uttara (East) Police Station: +88-02-58954126, +8801794449948</span> </br> 
                     <span style="color: black; font-size: 17px;">Uttara (West) Police Station: +88-02-8991315, +8801769058065</span> 
                   </p>
+                  
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/wIy9Kh9cV_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
 
-              </span>
-                  </div>
+                    </span>
+                    <div class="READMORE">
+                        <a id="readMore">See More...</a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -81,14 +92,14 @@
     </section>
       <section class="container">
         <div class="gallery">
-            <a href="image/Dhaka/AhsanManzil/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-1.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-2.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-3.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-4.jpg"></a> 
-            <a href="image/Dhaka/AhsanManzil/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-5.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-6.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-7.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-8.jpg"></a>
+            <a href="image/Dhaka/Dhaka300ft/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-1.jpg"></a>
+            <a href="image/Dhaka/Dhaka300ft/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-2.jpg"></a>
+            <a href="image/Dhaka/Dhaka300ft/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-3.jpg"></a>
+            <a href="image/Dhaka/Dhaka300ft/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-4.jpg"></a> 
+            <a href="image/Dhaka/Dhaka300ft/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-5.jpg"></a>
+            <a href="image/Dhaka/Dhaka300ft/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-6.jpg"></a>
+            <a href="image/Dhaka/Dhaka300ft/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-7.jpg"></a>
+            <a href="image/Dhaka/Dhaka300ft/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhaka300ft/pic-8.jpg"></a>
             
         </div>
       </section>

@@ -78,6 +78,10 @@
                      <span style="color: blue; font-size: 17px;"><a href="https://web.facebook.com/Ahsan-Manzil-Museum-182524275883267" target="blank">www.facebook.com/Ahsan Manzil Museum</a></span> </br>  
                     </p>
 
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/P1bbaIQjmpY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
+
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>

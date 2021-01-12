@@ -69,6 +69,14 @@
                     <span style="color: black; font-size: 17px;">New Market Police Station: +88-02-8631942, +8801199883627</span> 
                     </p>
 
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/CurzonhallDU" target="_blank">www.facebook.com/CurzonhallDU</a></span> </br>  
+                    </p>
+
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6fWT_fyKKTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
+
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>
@@ -88,14 +96,14 @@
     </section>
       <section class="container">
         <div class="gallery">
-            <a href="image/Dhaka/AhsanManzil/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-1.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-2.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-3.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-4.jpg"></a> 
-            <a href="image/Dhaka/AhsanManzil/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-5.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-6.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-7.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-8.jpg"></a>
+            <a href="image/Dhaka/Curzonhall/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-1.jpg"></a>
+            <a href="image/Dhaka/Curzonhall/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-2.jpg"></a>
+            <a href="image/Dhaka/Curzonhall/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-3.jpg"></a>
+            <a href="image/Dhaka/Curzonhall/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-4.jpg"></a> 
+            <a href="image/Dhaka/Curzonhall/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-5.jpg"></a>
+            <a href="image/Dhaka/Curzonhall/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-6.jpg"></a>
+            <a href="image/Dhaka/Curzonhall/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-7.jpg"></a>
+            <a href="image/Dhaka/Curzonhall/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Curzonhall/pic-8.jpg"></a>
             
         </div>
       </section>

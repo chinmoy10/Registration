@@ -69,6 +69,15 @@
                      <span style="color: black; font-size: 17px;">Rupnagar Police Station: +88-02-9002177</span> </br> 
                     <span style="color: black; font-size: 17px;">Pallabi Police Station: +88-02-9015922, +8801199883735</span> 
                     </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/BotanicalGarden.Dhaka" target="_blank">www.facebook.com/botanical garden bangladesh</a></span> </br>  
+                    </p>
+                    
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ff-W_Jq1tmM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
+
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>

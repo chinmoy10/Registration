@@ -124,7 +124,7 @@
                         </div>
 
                         <div class="card_info">
-                            <a href="http://bnzoo.org/" target="blank" class="card_link">READ MORE</a>
+                            <a href="bangladeshnationalzoo.php" class="card_link">READ MORE</a>
                         </div>
                     </div>
 

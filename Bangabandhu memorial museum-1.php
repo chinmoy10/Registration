@@ -67,6 +67,18 @@
                     <span style="color: black; font-size: 17px;">Tejgaon Police Station: +88-02-9119444, 9119467</span> 
                     </p>
 
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/bangabandhumemorialmuseum" target="_blank">www.facebook.com/banga bandhu memorial museum</a></span> </br>  
+                    </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Website Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://bangabandhumuseum.org.bd/" target="_blank">www.banga bandhu memorial museum.com</a></span> </br>  
+                    </p>
+
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/vD38kljI91I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
+
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>

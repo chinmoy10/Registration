@@ -66,6 +66,14 @@
                      <span style="color: black; font-size: 17px;">Motijheel Police Station: +88-02-9571000 , +8801199883726 </span> </br> 
                     <span style="color: black; font-size: 17px;">Paltan Model Police Station: +88-02-9360802, +8801199883737   </span> 
                     </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/Baitul-Mukarram-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%91%D9%85-%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A4%E0%A7%81%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%AE-1442327405984524" target="blank">www.facebook.com/Baitul Mukarram Mosque</a></span> </br>  
+                    </p>
+
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fYTM9CKhmyc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>

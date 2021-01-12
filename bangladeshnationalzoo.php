@@ -65,6 +65,20 @@
                     <p style="color: Orange; font-size: 20px;">Thana: </br>
                      <span style="color: black; font-size: 17px;">Mirpur Model Police Station: +88-02-9001001, 9001000 , +8801199883734</span>
                     </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/Bangladesh-National-Zoo-Mirpur-Dhaka-578021789056402" target="_blank">www.facebook.com/bangladesh national zoo</a></span> </br>  
+                    </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Website Link:
+                     <span style="color: blue; font-size: 17px;"><a href="http://bnzoo.org/" target="_blank">www.bangladesh national zoo.com</a></span> </br>  
+                    </p>
+
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QnnArDN2iAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
+                    </p>
+
+                    
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>

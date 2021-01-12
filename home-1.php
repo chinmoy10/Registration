@@ -232,7 +232,7 @@
                     <div class="col s12 m4">
                         <div class="card">
                             <div class="card-image">
-                                <a href="sajek.php"><img src="img/Popular Places/Sajekvalley.jpg" alt="" class="responsive-img" ></a> 
+                                <a href="sajek-1.php"><img src="img/Popular Places/Sajekvalley.jpg" alt="" class="responsive-img" ></a> 
                                 <span class="card-title"> <h5>Sajek Valley</h5> </span>
                             </div>
                         </div>
