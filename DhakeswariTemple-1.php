@@ -63,7 +63,7 @@
                     <span id="dots"></span>
                     <span id="more">
                     <p style="color: green; font-size: 20px;">Open Time: <span style="color: black; font-size: 22px;">Regular</span>(7AM-2PM) & (4PM-9PM)</p> 
-                    <p style="color: red; font-size: 20px;">Close Time: <span style="color: black; font-size: 22px;">Regular</span>(2PM-4PM)</p> 
+                    <p style="color: red; font-size: 20px;">Closing Time: <span style="color: black; font-size: 22px;">Regular</span>(2PM-4PM)</p> 
                     
                     <p style="color: Orange; font-size: 20px;">Thana: </br>
                      <span style="color: black; font-size: 17px;">Lalbagh Police Station: +88-02-9660105, +8801199883721</span> </br> 
@@ -72,6 +72,10 @@
 
                     <p style="color: darkblue ; font-size: 20px;">Facebook Link:
                      <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/DhakeshwariNationalTemple" target="blank">www.facebook.com/DhakeshwariNationalTemple</a></span> </br>  
+                    </p>
+
+                    <p style="color: tomato; font-size: 20px;">Video: </br>
+                     <span style="color: blue; font-size: 17px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/q6k8ntL_hY0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> </br>  
                     </p>
 
                     </span>
