@@ -145,7 +145,7 @@
         </div>
     </section>
         <div>
-        <p style="color: red; font-size: 20px; text-align: center; padding-bottom: 20px;">***You will get a discount but use the discount code.***
+        <p style="color: red; font-size: 20px; text-align: center; padding-bottom: 20px;">*** You will get a discount but use the discount code.***
         </span></p>
         </div>
     

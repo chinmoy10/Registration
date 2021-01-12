@@ -3,11 +3,89 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS/dis_style.css">
+    <!-- <link rel="stylesheet" href="CSS/dis_style.css"> -->
     <title>User Login Data</title>
+
+    <style type="text/css">
+        * {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2b0fa8a9;
+    padding: 50px;
+}
+
+.reg_name {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+    text-decoration: underline;
+}
+
+.tab {
+    color: #000000;
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid black;
+    font-weight: 600;
+}
+
+.tab_att {
+    color: #ffffff;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.new{
+    padding-bottom: 50px;
+   
+}
+
+.new ul{
+    list-style-type: none;
+    
+}
+
+.new ul a{
+    text-decoration: none;
+    border: 1px solid black;
+    float: right;
+    padding: 7px 4px;
+    background-color: #0000006e;
+}
+
+.new ul a:hover{
+    border: 1px solid red;
+    background-color: #ff00008c;
+    color:black;
+}
+.new ul a li{
+    float: right;
+    color: white; 
+    font-size: 25px; 
+}
+
+.new ul a li:hover{
+    color:black; 
+}
+
+</style>
+
 </head>
 <body>
-<section class="reg_name">
+
+    <div class="new">
+        <ul>
+            <a href="displayplaces.php"><li>Suggested Info</li></a> 
+        </ul>
+    </div>
+
+    <section class="reg_name">
         <h1>User Login Table</h1>
     </section>
     <table class="tab" border="2">
