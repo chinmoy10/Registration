@@ -69,6 +69,11 @@
                      <span style="color: black; font-size: 17px;">Lalbagh Police Station: +88-02-9660105, +8801199883721</span> </br> 
                     <span style="color: black; font-size: 17px;">Chalkbazar Police Station: +88-02-7313966, +8801199883724</span> 
                     </p>
+
+                    <p style="color: darkblue ; font-size: 20px;">Facebook Link:
+                     <span style="color: blue; font-size: 17px;"><a href="https://www.facebook.com/DhakeshwariNationalTemple" target="blank">www.facebook.com/DhakeshwariNationalTemple</a></span> </br>  
+                    </p>
+
                     </span>
                     <div class="READMORE">
                         <a id="readMore">See More...</a>
@@ -86,14 +91,14 @@
     </section>
       <section class="container">
         <div class="gallery">
-            <a href="image/Dhaka/AhsanManzil/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-1.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-2.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-3.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-4.jpg"></a> 
-            <a href="image/Dhaka/AhsanManzil/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-5.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-6.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-7.jpg"></a>
-            <a href="image/Dhaka/AhsanManzil/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/AhsanManzil/pic-8.jpg"></a>
+            <a href="image/Dhaka/Dhakeshwari/pic1.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-1.jpg"></a>
+            <a href="image/Dhaka/Dhakeshwari/pic2.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-2.jpg"></a>
+            <a href="image/Dhaka/Dhakeshwari/pic3.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-3.jpg"></a>
+            <a href="image/Dhaka/Dhakeshwari/pic4.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-4.jpg"></a> 
+            <a href="image/Dhaka/Dhakeshwari/pic5.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-5.jpg"></a>
+            <a href="image/Dhaka/Dhakeshwari/pic6.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-6.jpg"></a>
+            <a href="image/Dhaka/Dhakeshwari/pic7.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-7.jpg"></a>
+            <a href="image/Dhaka/Dhakeshwari/pic8.jpg" data-lightbox="mygallery"><img src="image/Dhaka/Dhakeshwari/pic-8.jpg"></a>
             
         </div>
       </section>
@@ -102,7 +107,7 @@
             <h3>Location & Map</h3>
         </div>
     </section>
-    <section class="container map"> <iframe
+    <section class="container map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.678710618224!2d90.38820921471883!3d23.723164884602742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b915f2fd02c1%3A0xa94ac4185601cb6b!2sDhakeshwari%20Temple!5e0!3m2!1sen!2sbd!4v1605173533401!5m2!1sen!2sbd" width="1000" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
     </section>
 
