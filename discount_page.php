@@ -67,7 +67,30 @@
 
 </head>
 <body>
-    <?php include 'navbar-1.php' ?>
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="home-1.php">GhurboBD</a>
+      
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+          <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+        
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="Commets.php">Suggested New Places</a>
+            </li> -->
+
+            <li class="nav-item">
+              <a class="nav-link" href="index.php">LOG OUT</a>
+            </li>
+            <!--<li class="nav-item">
+              <a class="nav-link" href="#">Disabled</a>
+            </li>-->
+          </ul>
+        </div>
+      </div>
+    </nav>
     
     <section class="container-fluid discount">
         <div class="row">

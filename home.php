@@ -67,7 +67,7 @@
                     <div class="col s12 m4">
                         <div class="card">
                             <div class="card-image">
-                               <a href="login.php"><img src="img/C (1).jpg" alt=""></a> 
+                               <a href="login-1.php"><img src="img/C (1).jpg" alt=""></a> 
                             </div>
                         </div>
                     </div>
