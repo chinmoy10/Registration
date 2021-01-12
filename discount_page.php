@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahsan Manzil</title>
+    <title>Discount</title>
     <link rel="stylesheet" href="CSS/dhk_places_style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -22,7 +22,8 @@
         }
 
         .offer_place{
-            padding-bottom: 50px;
+            padding-top: 10px;
+            padding-bottom: 20px;
         }
         
         .offer{
@@ -143,6 +144,11 @@
             </div>
         </div>
     </section>
+        <div>
+        <p style="color: red; font-size: 20px; text-align: center; padding-bottom: 20px;">***You will get a discount but use the discount code.***
+        </span></p>
+        </div>
+    
 
     <section>
         <div class="footer">
