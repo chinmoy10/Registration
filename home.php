@@ -156,7 +156,7 @@
                     <div class="col s12 m3">
                         <div class="card">
                             <div class="card-image">
-                                <a href="https://mawaresort.com/" target="blank"><img src="img/hotels and resorts/mawaresort.jpg" alt=""></a> 
+                                <a href="https://mawaresort.com/" target="_blank"><img src="img/hotels and resorts/mawaresort.jpg" alt=""></a> 
                                 <span class="card-title"> <h5>Mawa Resort</h5> </span>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                     <div class="col s12 m3">
                         <div class="card">
                             <div class="card-image">
-                                <a href="http://nokkhottrobari.com/" target="blank"><img src="img/hotels and resorts/nokkhottrobari.jpg" alt=""></a> 
+                                <a href="http://nokkhottrobari.com/" target="_blank"><img src="img/hotels and resorts/nokkhottrobari.jpg" alt=""></a> 
                                 <span class="card-title"> <h5>Nokkhottrobari</h5> </span>
                             </div>
                         </div>
@@ -172,7 +172,7 @@
                     <div class="col s12 m3">
                         <div class="card">
                             <div class="card-image">
-                                <a href="https://www.panpacific.com/en/hotels-and-resorts/pp-dhaka.html?utm_source=google&utm_medium=business_listing&utm_campaign=googlemybusiness" target="blank"><img src="img/hotels and resorts/PanPacificSonargaonDhaka.jpg" alt=""></a> 
+                                <a href="https://www.panpacific.com/en/hotels-and-resorts/pp-dhaka.html?utm_source=google&utm_medium=business_listing&utm_campaign=googlemybusiness" target="_blank"><img src="img/hotels and resorts/PanPacificSonargaonDhaka.jpg" alt=""></a> 
                                 <span class="card-title"> <h5>PAN PACIFIC</h5> </span>
                             </div>
                         </div>
